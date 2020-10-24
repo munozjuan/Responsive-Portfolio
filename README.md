@@ -1,13 +1,17 @@
-# Responsive-Portfolio
-# About Me  
+
+
+# seo-refactor
+# Horiseon Marketing   
 
  
 
-![Project Image]( /images/digital-marketing-meeting.jpg) 
+![Project Image]( /images/page1.png) 
+![Project Image]( /images/page2.png) 
+!![Project Image]( /images/page3.png) 
 
  
 
-> My first code refactor using HTML CSS and Git. 
+> My first code refactor using JavaScript Bootstrap  and Git. 
 
  
 
@@ -21,11 +25,8 @@
 
 - [Description](#description) 
 - [technologies](#technologies) 
-
 - [References](#References) 
-
 - [License](#License) 
-
 - [Author Info](#author-info) 
 
  
@@ -38,7 +39,7 @@
 
  
 
-Working with this marketing agency I wanted the website to be up to date on accessibility standards. For the title I wanted to make sure it was concise yet descriptive. I made sure that it told the reader the name of the company and what they do. Making sure the website had semantic HTML elements. when you view the structure of the HTML elements I made sure it was independent of the styling and positioning. I made sure that all the images had alt attribute. I made sure the headings fell in sequential order. 
+I created a website using Bootstrap and JavaScript that allows me to have a responsive portfolio. This allows you to have the website in various sizes. In the About me section I added a navigation bar at the top that displays my name and links to go to my portfolio, contact page, or back to home. In the about me section I was about to make sure the image was wrapped around a brief about me section. In the contact section I was able to make a form that allows you to enter your name, email address, and lastly a message. Then you would be able to submit this. 
 
  
 
@@ -48,7 +49,9 @@ Working with this marketing agency I wanted the website to be up to date on acce
 
 - HMTL 
 
-- CSS 
+- BootStarp
+
+- JavaScript
 
 - Git 
 
