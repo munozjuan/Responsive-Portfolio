@@ -1,7 +1,7 @@
 
 
-# seo-refactor
-# Horiseon Marketing   
+# Juan Munoz About me
+# Responsive Portfolio  
 
  
 
@@ -14,7 +14,6 @@
 > My first code refactor using JavaScript Bootstrap  and Git. 
 
  
-
 --- 
 
  
@@ -22,7 +21,6 @@
 ### Table of Contents 
 
  
-
 - [Description](#description) 
 - [technologies](#technologies) 
 - [References](#References) 
